@@ -8,7 +8,7 @@ Headings <h1> - <h6>
 head/ info of the doc <head>
 body of the doc <body>
 image <img>
-link <link href>
+anchor <a href>
 line/part of doc <span>
 Highlight txt <strong>
 txt on top/ superscript <sup>
@@ -16,3 +16,5 @@ txt on bottom/ subscript <sub>
 table <table>
 title <title>
 paragraph <p>
+section <section>
+main <main>
